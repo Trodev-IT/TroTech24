@@ -100,7 +100,7 @@
 }
 
 .topbar .top-info {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     font-size: 15px;
     font-weight: 400;
     letter-spacing: 1px;
@@ -109,7 +109,7 @@
 }
 
 .topbar .top-link {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     font-size: 15px;
     font-weight: 400;
     letter-spacing: 1px;
@@ -127,7 +127,7 @@
 .topbar .top-link a {
     font-size: medium;
     font-weight: 400;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Space Grotesk", sans-serif;
     letter-spacing: 1px;
 }
 
