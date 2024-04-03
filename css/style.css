@@ -1,4 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap')
+body{
+    font-family: 'Space Grotesk', sans-serif;
+}
 /*** Spinner Start ***/
 #spinner {
     opacity: 0;
@@ -100,7 +103,7 @@
 }
 
 .topbar .top-info {
-    font-family: "Space Grotesk", sans-serif;
+     font-family: 'Space Grotesk', sans-serif;
     font-size: 15px;
     font-weight: 400;
     letter-spacing: 1px;
@@ -109,7 +112,7 @@
 }
 
 .topbar .top-link {
-    font-family: "Space Grotesk", sans-serif;
+     font-family: 'Space Grotesk', sans-serif;
     font-size: 15px;
     font-weight: 400;
     letter-spacing: 1px;
@@ -127,7 +130,7 @@
 .topbar .top-link a {
     font-size: medium;
     font-weight: 400;
-    font-family: "Space Grotesk", sans-serif;
+     font-family: 'Space Grotesk', sans-serif;
     letter-spacing: 1px;
 }
 
@@ -159,7 +162,7 @@
 .navbar .navbar-nav .nav-link {
     padding: 10px 15px;
     font-weight: 400;
-    font-family: 'Fredoka', sans-serif;
+     font-family: 'Space Grotesk', sans-serif;
     font-size: 16px;
     transition: .5s;
 }
@@ -174,7 +177,7 @@
 .navbar .dropdown-toggle::after {
     border: none;
     content: "\f107";
-    font-family: "Font Awesome 5 Free";
+     font-family: 'Space Grotesk', sans-serif;
     font-weight: 700;
     vertical-align: middle;
     margin-left: 8px;
@@ -186,7 +189,7 @@
         visibility: hidden;
         top: 100%;
         font-weight: 400;
-        font-family: 'Fredoka', sans-serif;
+         font-family: 'Space Grotesk', sans-serif;
         transform: rotateX(-75deg);
         transform-origin: 0% 0%;
         border: 0;
